@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+matplotlib
+scipy
+tqdm
+jupyter
+pytest
+nbconvert
+streamlit
+plotly
